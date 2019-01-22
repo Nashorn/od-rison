@@ -1,0 +1,11 @@
+{
+  "name": "od-rison",
+  "version": "0.1.1",
+  "description": "",
+  "main": "rison.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
